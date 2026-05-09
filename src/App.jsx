@@ -1,3 +1,5 @@
+import NLPNotes from "../nlp.jsx";
+
 export default function App() {
-  return <div>React app initialized.</div>;
+  return <NLPNotes />;
 }
